@@ -1,1 +1,1 @@
-# Covid-19-Data-Exploration-Project
+This Project "Covid Data Exploration in SQL" focuses on the pandemic's impact through database analysis. It investigates the spread and effects of Covid-19 by querying relevant datasets, uncovering insights, patterns and trends. This repository provides SQL scripts and queries to explore Covid-19 data, facilitating comprehensive analysis and insights into the global health crisis.
